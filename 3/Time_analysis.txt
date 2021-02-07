@@ -1,0 +1,4 @@
+The result shows that in forenoon it takes more time to download the webpage also at midnight it is fastet.
+Average time = 1.248s
+max time = 3.008s
+min time = 1.042s
