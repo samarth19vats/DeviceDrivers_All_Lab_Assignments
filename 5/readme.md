@@ -15,7 +15,7 @@ krishna@krishna:~/Module$ sudo rmmod hello.ko
 ```
 This command will call cleanup_module() which is called just before the module is unloaded from the kernel.
 # Ouput
-![Screenshot](insmod.JPG)
+![Screenshot](insmod.jfif)
 This is kernel log when module is loaded printing the message.
-![Screenshot](rmmod.JPG)
+![Screenshot](rmmod.jfif)
 This is kernel log when module is unloaded printing the message.
