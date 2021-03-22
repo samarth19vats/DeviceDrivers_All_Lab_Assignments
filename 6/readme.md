@@ -29,4 +29,10 @@ samarth@Predator:/media/samarth/8CB835EAB835D384/Study material/4th YEAR/Device 
 ```
 This command will call cleanup_module() which is called just before the module is unloaded from the kernel.
 # Ouput
+![Screenshot](testdrive.jfif)\
+This is the screenshot of the driver running.\
+![Screenshot](insmod.jfif)\
+This is kernel log when module is loaded printing the message.\
+![Screenshot](rmmod.jfif)\
+This is kernel log when module is unloaded printing the message.\
 
