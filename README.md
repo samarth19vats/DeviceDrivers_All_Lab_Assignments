@@ -1,5 +1,5 @@
-# DeviceDrivers_LAB1
+# DeviceDrivers_LAB
 # Samarth Vats
 # CED17I020
 
-Academic Lab 1 assignment for Device Drivers
+Academic Lab assignments for Device Drivers
