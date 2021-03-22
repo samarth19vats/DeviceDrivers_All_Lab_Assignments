@@ -17,7 +17,7 @@ samarth@Predator:/media/samarth/8CB835EAB835D384/Study material/4th YEAR/Device 
 ```
 This command will call init_module() which is called when the module is inserted into the kernel or loaded to the kernel.
 ```
-krishna@krishna:~/char$ cat /proc/devices | grep simple_driver
+samarth@Predator:/media/samarth/8CB835EAB835D384/Study material/4th YEAR/Device Drivers/Lab/CED17I020_EX6$ cat /proc/devices | grep simple_driver
 ```
 This command will display that our new driver is installed.
 ```
