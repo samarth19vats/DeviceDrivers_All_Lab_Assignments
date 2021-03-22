@@ -34,5 +34,5 @@ This is the screenshot of the driver running.\
 ![Screenshot](insmod.jfif)\
 This is kernel log when module is loaded printing the message.\
 ![Screenshot](rmmod.jfif)\
-This is kernel log when module is unloaded printing the message.\
+This is kernel log when module is unloaded printing the message.
 
